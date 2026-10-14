@@ -575,7 +575,7 @@ These are possible future enhancements rather than claims about the current impl
 
 **Atharva Kumkar**
 
-GitHub: [Atharavkumkar](https://github.com/Atharavkumkar)
+GitHub: [Atharvakumkar](https://github.com/Atharvakumkar)
 
 ## License
 
